@@ -6,7 +6,8 @@
 
 ### About
 
-Building [**Vesper**](https://vesper.bot) — currently heads-down.  
+Building [**CropMC**](https://cropmc.net) - currently working on it.
+Building [**Vesper**](https://vesper.bot) - paused for now.  
 Personal site → [sylas.works](https://sylas.works)  
 Reach me at [contact@sylas.works](mailto:contact@sylas.works)
 
